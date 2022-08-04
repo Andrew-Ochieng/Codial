@@ -1,6 +1,10 @@
 <template>
     <div>
-        <h1>Codial Solutions</h1>
+        <nav>
+            <div>
+                Codial Solutions
+            </div>
+        </nav>
 
     </div>
 </template>

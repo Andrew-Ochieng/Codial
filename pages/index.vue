@@ -1,14 +1,15 @@
 <template>
     <div>
-        <h1>hello</h1>
+        <Navbar />
         
     </div>
 </template>
 
 <script>
+import Navbar from '~~/components/navbar.vue';
     export default {
-        
-    }
+    components: { Navbar }
+}
 </script>
 
 <style scoped>
