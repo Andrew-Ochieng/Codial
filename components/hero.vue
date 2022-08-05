@@ -7,7 +7,7 @@
                 <h3 class="text-yellow-500 font-medium uppercase md:text-xl text-md">UI/UX Design, Web/ App Development & Social Media Marketing</h3>
                 <p class="md:my-8 my-4">Codial Solutions belives in developing sustainable software solutions
                      to curb present and future challenges using data-driven decision making criteria.</p>
-                <button class="md:px-6 px-3 md:py-4 py-3 bg-sky-500 hover:bg-sky-400 rounded-lg text-gray-100 hover:text-gray-900" href="#">
+                <button class="md:px-6 px-4 md:py-3 py-2 bg-sky-500 hover:bg-sky-400 rounded-full text-gray-100 hover:text-gray-900" href="#">
                     Read More
                 </button>
             </div>

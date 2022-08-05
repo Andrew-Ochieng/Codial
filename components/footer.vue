@@ -11,8 +11,8 @@
         </div>
 
         <!--footer-->
-        <footer class="">
-            <div class="md:flex justify-around md:p-16 p-8 bg-gray-200 md:space-y-0 space-y-4">
+        <footer class="bg-gray-200">
+            <div class="md:flex justify-around md:p-16 p-8 md:space-y-0 space-y-4">
                 <div>
                     <h1 class="md:text-3xl text-2xl text-sky-500 font-semibold md:mb-2">Codial Solutions</h1>
                     <p class="md:text-lg text-sm">Lorem ipsum dolor sit amet consectetur <br> adipisicing elit. Tenetur, odit.</p>
@@ -75,6 +75,11 @@
                         </li>
                     </ul>
                 </div>
+            </div>
+            
+            <!--copyright-->
+            <div class="bg-gray-600 py-3">
+                <p class="text-center text-sm text-white">Copyright © 2022 | Codial Solutions</p>
             </div>
         </footer>
     </section>
