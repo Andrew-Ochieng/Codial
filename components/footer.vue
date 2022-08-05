@@ -37,19 +37,16 @@
                 <div>
                     <h2 class="md:text-2xl text-lg font-medium text-gray-800 md:mb-2">Links</h2>
                     <ul class="md:text-lg text-sm">
-                        <li class="text-sky-500 hover:text-gray-800">
-                            <a href="#">Home</a>
+                        <li class="text-sky-500 hover:text-gray-800 my-1">
+                            <a href="#">About</a>
                         </li>
-                        <li class="text-sky-500 hover:text-gray-800">
+                        <li class="text-sky-500 hover:text-gray-800 my-1">
                             <a href="#">Services</a>
                         </li>
-                        <li class="text-sky-500 hover:text-gray-800">
+                        <li class="text-sky-500 hover:text-gray-800 my-1">
                             <a href="#">Projects</a>
                         </li>
-                        <li class="text-sky-500 hover:text-gray-800">
-                            <a href="#">Clients</a>
-                        </li>
-                        <li class="text-sky-500 hover:text-gray-800">
+                        <li class="text-sky-500 hover:text-gray-800 my-1">
                             <a href="#">Contacts</a>
                         </li>
                     </ul>
@@ -58,20 +55,17 @@
                 <div>
                     <h2 class="md:text-2xl text-lg font-medium text-gray-800 mb-2">Contact</h2>
                     <ul class="md:text-xl text-sm">
-                        <li class="text-sky-500 hover:text-gray-800">
-                            <a href="#">Home</a>
+                        <li class="text-sky-500 hover:text-gray-800 my-1">
+                            <i></i>
+                            0710815080/ 0717195986
                         </li>
-                        <li class="text-sky-500 hover:text-gray-800">
-                            <a href="#">Services</a>
+                        <li class="text-sky-500 hover:text-gray-800 my-1">
+                            <i></i>
+                            codialsolutions@gmail.com
                         </li>
-                        <li class="text-sky-500 hover:text-gray-800">
-                            <a href="#">Projects</a>
-                        </li>
-                        <li class="text-sky-500 hover:text-gray-800">
-                            <a href="#">Clients</a>
-                        </li>
-                        <li class="text-sky-500 hover:text-gray-800">
-                            <a href="#">Contacts</a>
+                        <li class="text-sky-500 hover:text-gray-800 my-1">
+                            <i></i>
+                            Codial House, Kilimani, Nairobi
                         </li>
                     </ul>
                 </div>
