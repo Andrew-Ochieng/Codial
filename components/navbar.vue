@@ -6,7 +6,10 @@
                 <div class="flex items-center justify-between">
                     <div class="flex items-center flex-shrink-0">
                         <a href="#!" class="flex items-center">
-                            <img src="../assets/images/codial-logo.png" alt="Codial Solutions" class="md:h-20 h-10 mr-2 md:pb-3 pb-1">
+                            <img src="../assets/images/download.png" alt="Codial Solutions" class="md:h-14 h-9 mr-2 md:pb-3 pb-1">
+                            <p class="md:text-2xl text-xl text-gray-900 font-semibold uppercase"> Codial 
+                                <span class="text-gray-100">Solutions</span>
+                            </p>
                         </a>
                     </div>
 
