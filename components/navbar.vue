@@ -2,14 +2,12 @@
     <div>
 
         <div class="bg-sky-300">
-            <nav class="container md:px-12 px-6 md:py-3 py-4 mx-auto md:flex justify-between md:items-center">
+            <nav class="container md:px-8 px-4 py-2 mx-auto md:flex justify-between md:items-center">
                 <div class="flex items-center justify-between">
                     <div class="flex items-center flex-shrink-0">
-                        <a href="#!" class="flex items-center">
-                            <img src="../assets/images/download.png" alt="Codial Solutions" class="md:h-14 h-9 mr-2 md:pb-3 pb-1">
-                            <p class="md:text-2xl text-lg text-gray-900 font-semibold uppercase"> Codial 
-                                <span class="text-gray-100">Solutions</span>
-                            </p>
+                        <a href="#!" class="flex items-c12enter">
+                            <img src="../assets/images/logo-4.png" alt="Codial Solutions" class="md:h-20 h-14 mr-2 md:pb-3 pb-1">
+                            
                         </a>
                     </div>
 
