@@ -52,7 +52,7 @@
                     </li>
                     <li>
                         <NuxtLink
-                            to="/services" 
+                            to="#services" 
                             class="block mx-2 lg:inline-block font-medium md:text-lg text-gray-700 hover:text-gray-100">
                             Services
                         </NuxtLink>
