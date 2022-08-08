@@ -73,7 +73,7 @@
             
             <!--copyright-->
             <div class="bg-gray-600 py-3">
-                <p class="text-center text-sm text-white">Copyright © 2022 | Codial Solutions</p>
+                <p class="text-center text-sm text-white">Copyright © 2022 | <a class="hover:text-sky-500" href="#">Codial Solutions</a></p>
             </div>
         </footer>
     </section>
