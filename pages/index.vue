@@ -4,6 +4,7 @@
         <Hero />
         <Services />
         <Projects />
+        <ReachOut />
         <Clients />
         <Footer />
         
