@@ -18,6 +18,18 @@
                 <div>
                     <img src="../assets/images/Taquana-logo.png" alt="">
                 </div>
+                 <div>
+                    <img src="../assets/images/KCCSON.png" alt="">
+                </div>
+                <div>
+                    <img src="../assets/images/Taquana-logo.png" alt="">
+                </div>
+                 <div>
+                    <img src="../assets/images/KCCSON.png" alt="">
+                </div>
+                <div>
+                    <img src="../assets/images/Taquana-logo.png" alt="">
+                </div>
             </div>
         </div>
 

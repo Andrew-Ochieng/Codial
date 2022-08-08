@@ -3,7 +3,7 @@
         <Navbar />
         <Hero />
         <Services />
-        <Projects />
+        <ChooseUs />
         <ReachOut />
         <Clients />
         <Footer />
@@ -15,7 +15,7 @@
 import Navbar from '~~/components/navbar.vue';
 import Hero from '~~/components/hero.vue';
 import Services from '../components/services.vue';
-import Projects from '../components/projects.vue';
+import Projects from '../components/chooseUs.vue';
 import Clients from '../components/clients.vue';
 import Footer from '../components/footer.vue';
 
