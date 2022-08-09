@@ -57,7 +57,7 @@
             <!--copyright-->
             <div class="py-3 md:flex justify-between items-center md:px-16 px-8">
                 <div class="">
-                    <ul class="md:flex md:space-x-8 md:text-sm text-xs ">
+                    <ul class="flex justify-around md:space-x-8 md:text-sm text-xs ">
                         <li class="hover:text-sky-400 my-1">
                             <a href="#">About</a>
                         </li>
