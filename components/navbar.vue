@@ -35,32 +35,24 @@
                     :class="showMenu ? 'flex' : 'hidden'"
                     class="flex-col mt-8 space-y-2 md:flex md:space-y-0 md:flex-row md:items-center md:space-x-10 md:mt-0">
                     <li>
-                        <NuxtLink
-                            to="/" 
-                            class="block mx-2 lg:inline-block font-medium md:text-lg text-gray-900 hover:text-gray-100">
+                        <a href="#" class="block mx-2 lg:inline-block font-medium md:text-lg text-gray-900 hover:text-gray-100">
                             Home
-                        </NuxtLink>
+                        </a>
                     </li>
                     <li>
-                        <NuxtLink
-                            to="/about" 
-                            class="block mx-2 lg:inline-block font-medium md:text-lg text-gray-700 hover:text-gray-100">
+                        <a href="#about" class="block mx-2 lg:inline-block font-medium md:text-lg text-gray-700 hover:text-gray-100">
                             About
-                        </NuxtLink>
+                        </a>
                     </li>
                     <li>
-                        <NuxtLink
-                            to="/services" 
-                            class="block mx-2 lg:inline-block font-medium md:text-lg text-gray-700 hover:text-gray-100">
+                        <a href="#services" class="block mx-2 lg:inline-block font-medium md:text-lg text-gray-700 hover:text-gray-100">
                             Services
-                        </NuxtLink>
+                        </a>
                     </li>
                     <li>
-                        <NuxtLink
-                            to="/contact" 
-                            class="block mx-2 lg:inline-block font-medium md:text-lg text-gray-700 hover:text-gray-100">
+                        <a href="#contact" class="block mx-2 lg:inline-block font-medium md:text-lg text-gray-700 hover:text-gray-100">
                             Contact
-                        </NuxtLink>
+                        </a>
                     </li>
                 </ul>
             </nav>
