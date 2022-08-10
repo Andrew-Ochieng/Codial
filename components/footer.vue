@@ -29,6 +29,7 @@
                 <div class="md:text-left">
                     <h1 class="md:text-3xl text-2xl text-sky-500 font-semibold md:mb-2">Codial Solutions</h1>
                     <p class="md:text-base text-sm ">Lorem ipsum dolor sit amet consectetur <br> adipisicing elit. Tenetur, odit.</p>
+                    <i class="fa-solid fa-user"></i>
                 </div>
 
                 <div class="md:text-right">

@@ -2,21 +2,21 @@
     <div id="contact" class="bg-gray-100 py-8">
         <!--reach-out-->
         <div class="md:m-12 m-6 md:flex justify-between">
-            <div class="">
+            <div class="md:text-left text-center">
                 <h1 class="md:text-5xl text-2xl font-semibold tracking-wide md:leading-tight text-sky-400">
                     Got a Project <br> Or Partnership <br> In Mind?
                 </h1>
                 <div class="md:mt-8 mt-4 md:flex justify-between">
-                    <div class="md:mt-0 mt-4 text-gray-700">
-                        <div class="p-4 bg-white rounded-lg flex items-center w-16 mb-3 shadow-lg">
+                    <div class="md:mt-0 mt-4 text-gray-700 flex flex-col justify-center">
+                        <div class="p-4 bg-white rounded-lg flex items-center justify-center w-16 mb-3 shadow-lg">
                              <img class="md:w-8 w-6" src="../assets/images/call.png" alt="">
                         </div>
                         <h5 class="font-medium mb-2 text-gray-900">Phone:</h5>
                         <p class="md:text-base text-sm">0710815080</p>
                         <p class="md:text-base text-sm">0717195986</p>
                     </div>
-                    <div class="md:mt-0 mt-4 text-gray-700">
-                        <div class="p-4 bg-white rounded-lg flex items-center w-16 mb-3 shadow-lg">
+                    <div class="md:mt-0 mt-4 text-gray-700 flex flex-col justify-center">
+                        <div class="p-4 bg-white rounded-lg flex items-center justify-center w-16 mb-3 shadow-lg">
                             <img class="md:w-8 w-6" src="../assets/images/email.png" alt="">
                         </div>
                         <h5 class="font-medium mb-2 text-gray-900">Phone:</h5>
