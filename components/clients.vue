@@ -1,25 +1,22 @@
 <template>
     <section>
-        <div class="md:mx-12 mx-6 md:my-32 my-16">
-            <h3 class="md:text-lg text-md font-medium text-gray-800 text-center md:my-4 my-2 uppercase">Trusted Company</h3>
-            <h1 class="md:text-4xl text-2xl font-bold text-sky-400 text-center md:mb-8 mb-4">More Than 100+ Clients</h1>
-
+        <div class=" bg-gradient-to-r from-cyan-500 to-blue-400 lg:px-32 md:px-16 px-8 md:py-6 py-4">
             <!--logo-carousel-->
-            <div class="flex justify-center md:space-x-8 space-x-4">
-                <div>
-                    <img src="../assets/images/KCCSON.png" alt="">
+            <div class="flex justify-around">
+                <div class="md:w-1/12 w-2/12">
+                    <img class="md:w-10/12" src="../assets/images/KCCSON.png" alt="">
                 </div>
-                <div>
-                    <img src="../assets/images/KCCSON.png" alt="">
+                 <div class="md:w-1/12 w-2/12">
+                    <img class="md:w-10/12" src="../assets/images/KCCSON.png" alt="">
                 </div>
-                 <div>
-                    <img src="../assets/images/KCCSON.png" alt="">
+                <div class="md:w-1/12 w-2/12">
+                    <img class="md:w-10/12" src="../assets/images/KCCSON.png" alt="">
                 </div>
-                <div>
-                    <img src="../assets/images/KCCSON.png" alt="">
+                <div class="md:flex hidden md:w-1/12 w-2/12">
+                    <img class="md:w-10/12" src="../assets/images/KCCSON.png" alt="">
                 </div>
-                <div class="md:flex hidden">
-                    <img src="../assets/images/KCCSON.png" alt="">
+                <div class="md:flex hidden md:w-1/12 w-2/12">
+                    <img class="md:w-10/12" src="../assets/images/KCCSON.png" alt="">
                 </div>
             </div>
         </div>

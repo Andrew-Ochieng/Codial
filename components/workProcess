@@ -1,0 +1,16 @@
+<template>
+    <div id="how-we-work" class="bg-white-100 py-8">
+        
+
+    </div>
+</template>
+
+<script>
+    export default {
+        
+    }
+</script>
+
+<style  scoped>
+
+</style>

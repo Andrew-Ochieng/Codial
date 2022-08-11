@@ -2,10 +2,12 @@
     <div>
         <Navbar />
         <Hero />
+        <Clients />
         <Services />
         <ChooseUs />
+        <OurTeam />
         <ReachOut />
-        <Clients />
+        <!-- <Clients /> -->
         <Footer />
         
     </div>

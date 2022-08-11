@@ -3,17 +3,13 @@
         <!--call-to-action-->
         <div class="">
             <div class="md:flex justify-around md:space-y-0 space-y-4 text-center items-center text-gray-800 md:py-12 py-8 md:px-16 px-4 bg-sky-300">
-                <p class="md:text-3xl text-2xl font-medium">We are ready to work with you.</p>
-                <!-- <div>
-                    <input class="py-2 px-3 rounded-l-lg outline-none focus:ring-gray-600" type="email" id="email" placeholder="Your email here">
-                    <input class="py-2 px-3 rounded-r-lg bg-yellow-400 hover:bg-yellow-500 hover:text-gray-700 font-medium cursor-pointer" type="submit" value="Get Started">
-                </div> -->
+                <p class="md:text-3xl text-2xl font-medium">Follow our newsletter for updates</p>
                 <div class="flex justify-center mt-6">
                     <div class="bg-white border rounded-md focus-within:ring-2 dark:bg-gray-800 dark:border-gray-600 focus-within:border-blue-400 focus-within:ring-gray-700 focus-within:ring-opacity-40 dark:focus-within:border-gray-600">
                         <div class="flex flex-wrap justify-between md:flex-row">
                             <input type="email" placeholder="Enter your email" aria-label="Enter your email" class="p-2 m-1 text-sm text-gray-700 bg-transparent appearance-none focus:outline-none focus:placeholder-transparent"> 
                             <button class="w-full px-3 py-2 m-1 text-sm font-medium tracking-wider text-white uppercase transition-colors duration-200 transform bg-yellow-500 rounded-md dark:hover:bg-yellow-400 dark:bg-yellow-500 lg:w-auto hover:bg-yellow-400">
-                                Get Started
+                                Subscribe
                             </button>
                         </div>
                     </div>
