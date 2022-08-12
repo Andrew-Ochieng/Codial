@@ -2,12 +2,12 @@
     <div>
         <Navbar />
         <Hero />
-        <Clients />
+        <WorkProcess />
         <Services />
         <ChooseUs />
         <OurTeam />
+        <Clients />
         <ReachOut />
-        <!-- <Clients /> -->
         <Footer />
         
     </div>
@@ -16,6 +16,7 @@
 <script>
 import Navbar from '~~/components/navbar.vue';
 import Hero from '~~/components/hero.vue';
+import WorkProcess from '../components/workProcess.vue';
 import Services from '../components/services.vue';
 import Projects from '../components/chooseUs.vue';
 import Clients from '../components/clients.vue';
@@ -25,6 +26,7 @@ export default {
     components: {
         Navbar,
         Hero,
+        WorkProcess,
         Services,
         Projects,
         Clients,
