@@ -2,7 +2,7 @@
     <section id="hero" class="">
         
         <div class="relative " style="min-height: 100vh;">
-            <div class="absolute w-full h-full bg-center bg-cover top-0" style="background-image: url('../assets/images/hero.jpg');">
+            <div class="absolute w-full h-full bg-center bg-cover top-0" style="background-image: url('https://images.unsplash.com/photo-1573164573938-c9a3db2e84ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1469&q=80');">
                 <!-- <img class="" src="../assets/images/hero.jpg" alt=""> -->
             </div>
             <div class="relative md:p-12 p-6 md:w-2/3">
