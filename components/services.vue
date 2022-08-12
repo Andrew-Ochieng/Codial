@@ -1,10 +1,7 @@
 <template>
     <section id="services" class="bg-white py-16">
         <div class="md:m-12 m-6">
-            <p class="text-center md:text-lg text-sm font-medium text-gray-800 uppercase">Our Services</p>
-            <h1 class="my-3 text-center text-sky-400 md:text-3xl text-xl font-semibold md:mb-8 mb-4">
-                Save TimeManaging Your Business With Our Best Services
-            </h1>
+            <p class="text-center md:text-2xl text-xl font-medium text-gray-800 uppercase mb-8">Our Services</p>
             <div>
                 <!--cards-->
                 <div class="md:flex justify-around md:space-x-8 shrink-0">

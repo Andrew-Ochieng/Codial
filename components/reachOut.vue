@@ -7,7 +7,7 @@
                     Got a Project <br> Or Partnership <br> In Mind?
                 </h1>
                 <div class="md:mt-8 mt-4 md:flex justify-between">
-                    <div class="md:mt-0 mt-4 text-gray-700 flex flex-col justify-center">
+                    <div class="md:mt-0 mt-4 text-gray-700 flex flex-col justify-center items-center">
                         <div class="p-4 bg-white rounded-lg flex items-center justify-center w-16 mb-3 shadow-lg">
                              <img class="md:w-8 w-6" src="../assets/images/call.png" alt="">
                         </div>
@@ -15,7 +15,7 @@
                         <p class="md:text-base text-sm">0710815080</p>
                         <p class="md:text-base text-sm">0717195986</p>
                     </div>
-                    <div class="md:mt-0 mt-4 text-gray-700 flex flex-col justify-center">
+                    <div class="md:mt-0 mt-4 text-gray-700 flex flex-col justify-center items-center">
                         <div class="p-4 bg-white rounded-lg flex items-center justify-center w-16 mb-3 shadow-lg">
                             <img class="md:w-8 w-6" src="../assets/images/email.png" alt="">
                         </div>

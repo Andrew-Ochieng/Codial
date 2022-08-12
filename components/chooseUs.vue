@@ -1,6 +1,6 @@
 <template>
-    <div class="pb-8 md:m-12 m-6">
-        <div class="md:flex justify-around md:space-x-16 ">
+    <div class="md:py-16 py-8 bg-gray-100">
+        <div class="pb-8 md:m-12 m-6 md:flex justify-around md:space-x-16 ">
             <div class="xl:w-9/12  md:mb-0 mb-8">
                 <img class="rounded-xl" src="../assets/images/customer-care.jpg" alt="">
             </div>
