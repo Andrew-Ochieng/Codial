@@ -20,7 +20,7 @@
         </div>
 
         <!--footer-->
-        <footer class="bg-gray-200 text-center">
+        <footer class="bg-gray-800 text-white opacity-95 text-center">
             <div class="md:flex justify-between md:px-16 px-8 py-8 md:space-y-0 space-y-4">
                 <div class="md:text-left">
                     <h1 class="md:text-3xl text-2xl text-sky-500 font-semibold md:mb-2">Codial Solutions</h1>
@@ -48,7 +48,7 @@
             </div>
             
             <div class="md:px-16 px-8">
-                <hr class="border-black">
+                <hr class="border-white">
             </div>
 
             <!--copyright-->
