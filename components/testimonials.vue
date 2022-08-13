@@ -20,15 +20,6 @@
                     <h5 class="text-sky-500 md:text-base text-xs mt-2">Jiltech, CEO</h5>
                 </div>
             </div>
-            <!-- <div class="flex justify-between items-center md:mb-0 mb-8 space-x-8 md:p-8 p-4 rounded-xl border-2 border-sky-400">
-                <div class="flex items-center justify-center">
-                    <img class="md:w-48 w-28 rounded-full" src="../assets/images/cto.jpg" alt="">
-                </div>
-                <div class="">
-                    <p class="md:text-xl text-xs">" Lorem ipsum dolor sit amet, consectetur adipisicing elit. Natus, magnam! "</p>
-                    <h5 class="text-sky-500">COO & Co-Founder</h5>
-                </div>
-            </div> -->
 
         </div>
 
