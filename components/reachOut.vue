@@ -44,7 +44,7 @@
                         <input class="w-full bg-gray-100 focus-within:bg-gray-50 focus-within:rounded-lg pl-1 pr-4 py-3 border-b-2 border-sky-300 outline-none" type="text" id="project-details" placeholder="Project Details">
                     </div>
 
-                    <button class="md:px-8 md:py-3 px-6 py-2 mt-2 md:text-lg text-md bg-sky-400 rounded-full text-white" type="submit">
+                    <button class="md:px-6 px-4 md:py-3 py-2 bg-gradient-to-r from-cyan-400 to-sky-500 hover:bg-sky-400 rounded-full font-medium text-gray-100 hover:text-gray-900 hover:scale-105 hover:translate-y-2 duration-500 shadow:lg hover:shadow-xl" type="submit">
                         Send Message
                     </button>
                 </form>

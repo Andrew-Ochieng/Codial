@@ -8,7 +8,7 @@
                     <div class="bg-white border rounded-md focus-within:ring-2 dark:bg-gray-800 dark:border-gray-600 focus-within:border-blue-400 focus-within:ring-gray-700 focus-within:ring-opacity-40 dark:focus-within:border-gray-600">
                         <div class="flex flex-wrap justify-between md:flex-row">
                             <input type="email" placeholder="Enter your email" aria-label="Enter your email" class="p-2 m-1 text-sm text-gray-700 bg-transparent appearance-none focus:outline-none focus:placeholder-transparent"> 
-                            <button class="w-full px-3 py-2 m-1 text-sm font-medium tracking-wider text-white uppercase transition-colors duration-200 transform bg-yellow-500 rounded-md dark:hover:bg-yellow-400 dark:bg-yellow-500 lg:w-auto hover:bg-yellow-400">
+                            <button class="w-full px-3 py-2 m-1 text-sm font-medium tracking-wider text-white uppercase transition-colors duration-200 transform bg-gradient-to-r from-yellow-400 to-yellow-500 rounded-md dark:hover:bg-yellow-400 dark:bg-yellow-500 lg:w-auto hover:bg-yellow-400">
                                 Subscribe
                             </button>
                         </div>
