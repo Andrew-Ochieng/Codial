@@ -1,8 +1,8 @@
 <template>
     <div class="md:py-16 py-8 bg-gray-100">
-        <div class="pb-8 md:m-12 m-6 md:flex justify-around md:space-x-16 ">
-            <div class="xl:w-9/12  md:mb-0 mb-8">
-                <img class="rounded-xl" src="../assets/images/customer-care.jpg" alt="">
+        <div class="pb-8 md:m-12 m-6 md:flex justify-around md:space-x-8 ">
+            <div class=" md:mb-0 mb-8">
+                <img class="rounded-xl" src="https://images.unsplash.com/photo-1560264357-8d9202250f21?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGN1c3RvbWVyJTIwY2FyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=600&q=60" alt="">
             </div>
 
             <div>
